@@ -1,0 +1,25 @@
+.layout-main {
+  width: 100vw;
+  height: 100vh;
+  background-color: aqua;
+}
+
+.navbar {
+  width: 100vw;
+  height: 2rem;
+  background-color: lightgray;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.inactive {
+  text-decoration: none;
+  color: black;
+}
+
+.active {
+  font-weight: bold;
+  color: orange;
+  text-decoration: underline;
+}
